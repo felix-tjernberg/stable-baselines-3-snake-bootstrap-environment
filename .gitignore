@@ -1,3 +1,9 @@
+logs/train_sessions
+models/train_sessions
+Pipfile.lock
+todo
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
